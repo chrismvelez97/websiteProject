@@ -2,3 +2,4 @@
 # Build A Website Project
 A website application that has multiple functionalities, built with Django.
 
+[For instructions how to build this project click here](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
